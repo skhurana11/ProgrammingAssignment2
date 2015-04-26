@@ -1,7 +1,7 @@
 ## fitst function, makeVector creates a special "vector", which is really a list containing a function to:
 ## 1. setMatrix: set the value of a matrix
 ## 2. getMatrix: get the value of a matrix
-## 3. cacheMatrix: get the carched value (inverse of the matrix)
+## 3. cacheMatrix: get the cached value (inverse of the matrix)
 ## 4. getInverse: get the cached value (inverse of the matrix)
 
 ## makeVector <- function(x = numeric()) {
